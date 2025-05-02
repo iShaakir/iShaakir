@@ -1,5 +1,5 @@
 <h1 align="center">Hoi 👋, Ik ben Shaakir Omar</h1>
-<h3 align="center">Software Developer in opleiding | MBO Niveau 4</h3>
+<h3 align="center">Tweedejaars Software Developer in opleiding aan het Techniek College Rotterdam (MBO 4).</h3>
 
 <h3 align="left">Connect met mij:</h3>
 <p align="left">
