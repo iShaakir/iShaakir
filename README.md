@@ -1,6 +1,7 @@
 <h1 align="center">Hoi 👋, Ik ben Shaakir Omar</h1>
 <h3 align="center">Tweedejaars Software Developer in opleiding aan het Techniek College Rotterdam (MBO 4).</h3>
 
+<h3 align="left">Bekijk mijn portfolio: https://ishaakir.github.io/Portfolio/</h3>
 <h3 align="left">Connect met mij:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaakir-o-a37694294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaakir-o-a37694294/" height="30" width="40" /></a>
